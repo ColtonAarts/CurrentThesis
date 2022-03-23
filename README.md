@@ -1,7 +1,7 @@
 # CurrentThesis
 
 # Dependencies:
-nltk/n
+nltk
 spacy
   python -m spacy download en_core_web_lg
 scipy
